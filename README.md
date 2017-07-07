@@ -7,19 +7,13 @@ This work is based on the idea of motif and the method for influence analysis su
 * Python2.7
 * ubuntu
 
-- ## TODO list
+## TODO list
 
-  On-line Hard Example Mining
+- [x] Pagerank with a priori
+- [ ] matrix construction via method of motif
+- [ ] experiment on the database of DBLP
 
-  - [ ] Ensemble SVD and DaulNet 
-  - [ ] Whether to Early-stop/ Checkpoint
-  - [ ] Whether to balance training dataset (Aug+Shuffle)
-  - [ ] SVD 
+# Reference
 
-  ```
-  - Grid search 
-      - latent dim / Dropout / regularize hyper-parameter 
-  - accuracy on the fly
-  ```
 
-  - [ ] DaulNet
+
