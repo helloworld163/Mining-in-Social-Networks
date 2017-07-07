@@ -13,6 +13,10 @@ This work is based on the idea of motif and the method for influence analysis su
 - [ ] matrix construction via method of motif
 - [ ] experiment on the database of DBLP
 
+
+
+-[x]
+
 # Reference
 
 
